@@ -4,6 +4,7 @@
 파일명: hw6_2.cpp
 파일내용: friend 선언된 전역변수에서 멤버변수에 직접 접근하여 객체 정보를 출력한다.
 *****************/
+#include "stdafx"
 #include <iostream>
 using namespace std;
 

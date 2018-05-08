@@ -19,7 +19,7 @@ class Television
 			cost = 0;
 		}
 		Television(string s){
-			this-> Television::Television(s, 0);
+			this-> Television(s, 0);
 		}
 		Television(string s, int c){
 			name = s;
